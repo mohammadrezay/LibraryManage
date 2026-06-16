@@ -1,0 +1,2296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\LibraryManage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|d:\\project\\librarymanage\\librarymanage.infrastructure\\persistence\\seed\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|solutionrelative:librarymanage.infrastructure\\persistence\\seed\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A2C355-BDF0-4406-8B09-7DAF6F67083A}|LibraryManage.Domain\\LibraryManage.Domain.csproj|d:\\project\\librarymanage\\librarymanage.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A2C355-BDF0-4406-8B09-7DAF6F67083A}|LibraryManage.Domain\\LibraryManage.Domain.csproj|solutionrelative:librarymanage.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A2C355-BDF0-4406-8B09-7DAF6F67083A}|LibraryManage.Domain\\LibraryManage.Domain.csproj|d:\\project\\librarymanage\\librarymanage.domain\\entities\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A2C355-BDF0-4406-8B09-7DAF6F67083A}|LibraryManage.Domain\\LibraryManage.Domain.csproj|solutionrelative:librarymanage.domain\\entities\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BCA1D9-BEF3-4875-8BDA-A43F608E7DAF}|LibraryManage.API\\LibraryManage.API.csproj|d:\\project\\librarymanage\\librarymanage.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BCA1D9-BEF3-4875-8BDA-A43F608E7DAF}|LibraryManage.API\\LibraryManage.API.csproj|solutionrelative:librarymanage.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A2C355-BDF0-4406-8B09-7DAF6F67083A}|LibraryManage.Domain\\LibraryManage.Domain.csproj|d:\\project\\librarymanage\\librarymanage.domain\\valueobjects\\username.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A2C355-BDF0-4406-8B09-7DAF6F67083A}|LibraryManage.Domain\\LibraryManage.Domain.csproj|solutionrelative:librarymanage.domain\\valueobjects\\username.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A2C355-BDF0-4406-8B09-7DAF6F67083A}|LibraryManage.Domain\\LibraryManage.Domain.csproj|d:\\project\\librarymanage\\librarymanage.domain\\entities\\usercredential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A2C355-BDF0-4406-8B09-7DAF6F67083A}|LibraryManage.Domain\\LibraryManage.Domain.csproj|solutionrelative:librarymanage.domain\\entities\\usercredential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A2C355-BDF0-4406-8B09-7DAF6F67083A}|LibraryManage.Domain\\LibraryManage.Domain.csproj|d:\\project\\librarymanage\\librarymanage.domain\\entities\\paymenthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A2C355-BDF0-4406-8B09-7DAF6F67083A}|LibraryManage.Domain\\LibraryManage.Domain.csproj|solutionrelative:librarymanage.domain\\entities\\paymenthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A2C355-BDF0-4406-8B09-7DAF6F67083A}|LibraryManage.Domain\\LibraryManage.Domain.csproj|d:\\project\\librarymanage\\librarymanage.domain\\entities\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A2C355-BDF0-4406-8B09-7DAF6F67083A}|LibraryManage.Domain\\LibraryManage.Domain.csproj|solutionrelative:librarymanage.domain\\entities\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A2C355-BDF0-4406-8B09-7DAF6F67083A}|LibraryManage.Domain\\LibraryManage.Domain.csproj|d:\\project\\librarymanage\\librarymanage.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A2C355-BDF0-4406-8B09-7DAF6F67083A}|LibraryManage.Domain\\LibraryManage.Domain.csproj|solutionrelative:librarymanage.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A2C355-BDF0-4406-8B09-7DAF6F67083A}|LibraryManage.Domain\\LibraryManage.Domain.csproj|d:\\project\\librarymanage\\librarymanage.domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A2C355-BDF0-4406-8B09-7DAF6F67083A}|LibraryManage.Domain\\LibraryManage.Domain.csproj|solutionrelative:librarymanage.domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|d:\\project\\librarymanage\\librarymanage.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|solutionrelative:librarymanage.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BCA1D9-BEF3-4875-8BDA-A43F608E7DAF}|LibraryManage.API\\LibraryManage.API.csproj|d:\\project\\librarymanage\\librarymanage.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75BCA1D9-BEF3-4875-8BDA-A43F608E7DAF}|LibraryManage.API\\LibraryManage.API.csproj|solutionrelative:librarymanage.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|d:\\project\\librarymanage\\librarymanage.infrastructure\\persistence\\configurations\\loanconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|solutionrelative:librarymanage.infrastructure\\persistence\\configurations\\loanconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|d:\\project\\librarymanage\\librarymanage.infrastructure\\persistence\\configurations\\publisherconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|solutionrelative:librarymanage.infrastructure\\persistence\\configurations\\publisherconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A2C355-BDF0-4406-8B09-7DAF6F67083A}|LibraryManage.Domain\\LibraryManage.Domain.csproj|d:\\project\\librarymanage\\librarymanage.domain\\enums\\loanstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A2C355-BDF0-4406-8B09-7DAF6F67083A}|LibraryManage.Domain\\LibraryManage.Domain.csproj|solutionrelative:librarymanage.domain\\enums\\loanstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|d:\\project\\librarymanage\\librarymanage.infrastructure\\persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|solutionrelative:librarymanage.infrastructure\\persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|d:\\project\\librarymanage\\librarymanage.infrastructure\\persistence\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|solutionrelative:librarymanage.infrastructure\\persistence\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|d:\\project\\librarymanage\\librarymanage.infrastructure\\persistence\\context\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|solutionrelative:librarymanage.infrastructure\\persistence\\context\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\interfaces\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\interfaces\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|d:\\project\\librarymanage\\librarymanage.infrastructure\\security\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|solutionrelative:librarymanage.infrastructure\\security\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|d:\\project\\librarymanage\\librarymanage.infrastructure\\security\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|solutionrelative:librarymanage.infrastructure\\security\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\applicationassemblymarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\applicationassemblymarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BCA1D9-BEF3-4875-8BDA-A43F608E7DAF}|LibraryManage.API\\LibraryManage.API.csproj|d:\\project\\librarymanage\\librarymanage.api\\controllers\\usercredentialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BCA1D9-BEF3-4875-8BDA-A43F608E7DAF}|LibraryManage.API\\LibraryManage.API.csproj|solutionrelative:librarymanage.api\\controllers\\usercredentialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BCA1D9-BEF3-4875-8BDA-A43F608E7DAF}|LibraryManage.API\\LibraryManage.API.csproj|d:\\project\\librarymanage\\librarymanage.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BCA1D9-BEF3-4875-8BDA-A43F608E7DAF}|LibraryManage.API\\LibraryManage.API.csproj|solutionrelative:librarymanage.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BCA1D9-BEF3-4875-8BDA-A43F608E7DAF}|LibraryManage.API\\LibraryManage.API.csproj|d:\\project\\librarymanage\\librarymanage.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BCA1D9-BEF3-4875-8BDA-A43F608E7DAF}|LibraryManage.API\\LibraryManage.API.csproj|solutionrelative:librarymanage.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BCA1D9-BEF3-4875-8BDA-A43F608E7DAF}|LibraryManage.API\\LibraryManage.API.csproj|d:\\project\\librarymanage\\librarymanage.api\\controllers\\publishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BCA1D9-BEF3-4875-8BDA-A43F608E7DAF}|LibraryManage.API\\LibraryManage.API.csproj|solutionrelative:librarymanage.api\\controllers\\publishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BCA1D9-BEF3-4875-8BDA-A43F608E7DAF}|LibraryManage.API\\LibraryManage.API.csproj|d:\\project\\librarymanage\\librarymanage.api\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BCA1D9-BEF3-4875-8BDA-A43F608E7DAF}|LibraryManage.API\\LibraryManage.API.csproj|solutionrelative:librarymanage.api\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BCA1D9-BEF3-4875-8BDA-A43F608E7DAF}|LibraryManage.API\\LibraryManage.API.csproj|d:\\project\\librarymanage\\librarymanage.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BCA1D9-BEF3-4875-8BDA-A43F608E7DAF}|LibraryManage.API\\LibraryManage.API.csproj|solutionrelative:librarymanage.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BCA1D9-BEF3-4875-8BDA-A43F608E7DAF}|LibraryManage.API\\LibraryManage.API.csproj|d:\\project\\librarymanage\\librarymanage.api\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BCA1D9-BEF3-4875-8BDA-A43F608E7DAF}|LibraryManage.API\\LibraryManage.API.csproj|solutionrelative:librarymanage.api\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BCA1D9-BEF3-4875-8BDA-A43F608E7DAF}|LibraryManage.API\\LibraryManage.API.csproj|d:\\project\\librarymanage\\librarymanage.api\\middlewares\\performancemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BCA1D9-BEF3-4875-8BDA-A43F608E7DAF}|LibraryManage.API\\LibraryManage.API.csproj|solutionrelative:librarymanage.api\\middlewares\\performancemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BCA1D9-BEF3-4875-8BDA-A43F608E7DAF}|LibraryManage.API\\LibraryManage.API.csproj|d:\\project\\librarymanage\\librarymanage.api\\middlewares\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BCA1D9-BEF3-4875-8BDA-A43F608E7DAF}|LibraryManage.API\\LibraryManage.API.csproj|solutionrelative:librarymanage.api\\middlewares\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BCA1D9-BEF3-4875-8BDA-A43F608E7DAF}|LibraryManage.API\\LibraryManage.API.csproj|d:\\project\\librarymanage\\librarymanage.api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BCA1D9-BEF3-4875-8BDA-A43F608E7DAF}|LibraryManage.API\\LibraryManage.API.csproj|solutionrelative:librarymanage.api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|d:\\project\\librarymanage\\librarymanage.infrastructure\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|solutionrelative:librarymanage.infrastructure\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\common\\security\\passwordpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\common\\security\\passwordpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|d:\\project\\librarymanage\\librarymanage.infrastructure\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|solutionrelative:librarymanage.infrastructure\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|d:\\project\\librarymanage\\librarymanage.infrastructure\\persistence\\repositories\\usercredentialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|solutionrelative:librarymanage.infrastructure\\persistence\\repositories\\usercredentialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|d:\\project\\librarymanage\\librarymanage.infrastructure\\persistence\\queryservices\\userqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|solutionrelative:librarymanage.infrastructure\\persistence\\queryservices\\userqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|d:\\project\\librarymanage\\librarymanage.infrastructure\\persistence\\configurations\\usercredentialconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|solutionrelative:librarymanage.infrastructure\\persistence\\configurations\\usercredentialconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\interfaces\\iuserqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\interfaces\\iuserqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\interfaces\\iusercredentialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\interfaces\\iusercredentialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\usercredential\\handlers\\unlockusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\usercredential\\handlers\\unlockusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\usercredential\\handlers\\changepasswordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\usercredential\\handlers\\changepasswordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\usercredential\\commands\\unlockusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\usercredential\\commands\\unlockusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\usercredential\\commands\\changepasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\usercredential\\commands\\changepasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\users\\queries\\getuserbyusernamequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\users\\queries\\getuserbyusernamequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\users\\queries\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\users\\queries\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\users\\queries\\getallusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\users\\queries\\getallusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\users\\queries\\getactiveusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\users\\queries\\getactiveusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\users\\handlers\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\users\\handlers\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\users\\handlers\\registerusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\users\\handlers\\registerusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\users\\handlers\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\users\\handlers\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\users\\handlers\\getuserbyusernamequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\users\\handlers\\getuserbyusernamequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\users\\handlers\\getuserbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\users\\handlers\\getuserbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\users\\handlers\\getallusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\users\\handlers\\getallusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\users\\handlers\\getactiveusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\users\\handlers\\getactiveusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\users\\handlers\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\users\\handlers\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\users\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\users\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\users\\commands\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\users\\commands\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\users\\commands\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\users\\commands\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\users\\commands\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\users\\commands\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\users\\commands\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\users\\commands\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|d:\\project\\librarymanage\\librarymanage.infrastructure\\persistence\\repositories\\publisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|solutionrelative:librarymanage.infrastructure\\persistence\\repositories\\publisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|d:\\project\\librarymanage\\librarymanage.infrastructure\\persistence\\queryservices\\publisherqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|solutionrelative:librarymanage.infrastructure\\persistence\\queryservices\\publisherqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\interfaces\\ipublisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\interfaces\\ipublisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\interfaces\\ipublisherqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\interfaces\\ipublisherqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\publishers\\queries\\getpublisherbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\publishers\\queries\\getpublisherbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\publishers\\queries\\getallpublishersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\publishers\\queries\\getallpublishersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\publishers\\queries\\getactivepublishersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\publishers\\queries\\getactivepublishersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\publishers\\handlers\\updatepublisherhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\publishers\\handlers\\updatepublisherhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\publishers\\handlers\\getpublisherbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\publishers\\handlers\\getpublisherbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\publishers\\handlers\\getallpublishersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\publishers\\handlers\\getallpublishersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\publishers\\handlers\\getactivepublishersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\publishers\\handlers\\getactivepublishersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\publishers\\handlers\\deletepublisherhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\publishers\\handlers\\deletepublisherhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\publishers\\handlers\\createpublisherhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\publishers\\handlers\\createpublisherhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\publishers\\dtos\\publisherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\publishers\\dtos\\publisherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\publishers\\commands\\updatepublishercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\publishers\\commands\\updatepublishercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\publishers\\commands\\deletepublishercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\publishers\\commands\\deletepublishercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\publishers\\commands\\createpublishercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\publishers\\commands\\createpublishercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|d:\\project\\librarymanage\\librarymanage.infrastructure\\persistence\\repositories\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|solutionrelative:librarymanage.infrastructure\\persistence\\repositories\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|d:\\project\\librarymanage\\librarymanage.infrastructure\\persistence\\queryservices\\loanqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|solutionrelative:librarymanage.infrastructure\\persistence\\queryservices\\loanqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\interfaces\\iloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\interfaces\\iloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\interfaces\\iloanqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\interfaces\\iloanqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\loans\\queries\\getuserloansquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\loans\\queries\\getuserloansquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\loans\\queries\\getoverdueloansquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\loans\\queries\\getoverdueloansquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\loans\\queries\\getloanbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\loans\\queries\\getloanbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\loans\\queries\\getactiveloansquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\loans\\queries\\getactiveloansquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\loans\\handlers\\returnloancommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\loans\\handlers\\returnloancommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\loans\\handlers\\recordloanpaymentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\loans\\handlers\\recordloanpaymentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\loans\\handlers\\getuserloansqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\loans\\handlers\\getuserloansqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\loans\\handlers\\getoverdueloansqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\loans\\handlers\\getoverdueloansqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\loans\\handlers\\getloanbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\loans\\handlers\\getloanbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\loans\\handlers\\getactiveloansqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\loans\\handlers\\getactiveloansqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\loans\\handlers\\createloancommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\loans\\handlers\\createloancommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\loans\\dtos\\paymenthistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\loans\\dtos\\paymenthistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\loans\\dtos\\loandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\loans\\dtos\\loandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\loans\\commands\\returnloancommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\loans\\commands\\returnloancommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\loans\\commands\\recordloanpaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\loans\\commands\\recordloanpaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\loans\\commands\\createloancommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\loans\\commands\\createloancommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|d:\\project\\librarymanage\\librarymanage.infrastructure\\persistence\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|solutionrelative:librarymanage.infrastructure\\persistence\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|d:\\project\\librarymanage\\librarymanage.infrastructure\\persistence\\queryservices\\bookqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|solutionrelative:librarymanage.infrastructure\\persistence\\queryservices\\bookqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|d:\\project\\librarymanage\\librarymanage.infrastructure\\persistence\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|solutionrelative:librarymanage.infrastructure\\persistence\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\interfaces\\ibookqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\interfaces\\ibookqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\books\\queries\\getbookbyisbnquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\books\\queries\\getbookbyisbnquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\books\\queries\\getbookbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\books\\queries\\getbookbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\books\\queries\\getallbooksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\books\\queries\\getallbooksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\books\\handlers\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\books\\handlers\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\books\\handlers\\increasebookcopiescommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\books\\handlers\\increasebookcopiescommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\books\\handlers\\getbookbyisbnqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\books\\handlers\\getbookbyisbnqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\books\\handlers\\getbookbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\books\\handlers\\getbookbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\books\\handlers\\getallbooksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\books\\handlers\\getallbooksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\books\\handlers\\deletebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\books\\handlers\\deletebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\books\\handlers\\decreasebookcopiescommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\books\\handlers\\decreasebookcopiescommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\books\\handlers\\createbookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\books\\handlers\\createbookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\books\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\books\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\books\\commands\\updatebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\books\\commands\\updatebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\books\\commands\\increasebookcopiescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\books\\commands\\increasebookcopiescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\books\\commands\\deletebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\books\\commands\\deletebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\books\\commands\\decreasebookcopiescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\books\\commands\\decreasebookcopiescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\books\\commands\\createbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\books\\commands\\createbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|d:\\project\\librarymanage\\librarymanage.infrastructure\\persistence\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|solutionrelative:librarymanage.infrastructure\\persistence\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|d:\\project\\librarymanage\\librarymanage.infrastructure\\persistence\\queryservices\\authorqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|solutionrelative:librarymanage.infrastructure\\persistence\\queryservices\\authorqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|d:\\project\\librarymanage\\librarymanage.infrastructure\\persistence\\configurations\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015D3B6-45DB-4B95-9C0C-CF73909F1ACC}|LibraryManage.Infrastructure\\LibraryManage.Infrastructure.csproj|solutionrelative:librarymanage.infrastructure\\persistence\\configurations\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\authors\\queries\\getauthorbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\authors\\queries\\getauthorbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\authors\\queries\\getallauthorsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\authors\\queries\\getallauthorsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\authors\\handlers\\updateauthorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\authors\\handlers\\updateauthorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\authors\\handlers\\getauthorbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\authors\\handlers\\getauthorbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\authors\\handlers\\getallauthorsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\authors\\handlers\\getallauthorsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\authors\\handlers\\deleteauthorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\authors\\handlers\\deleteauthorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\authors\\handlers\\createauthorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\authors\\handlers\\createauthorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\authors\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\authors\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\authors\\commands\\updateauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\authors\\commands\\updateauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\authors\\commands\\deleteauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\authors\\commands\\deleteauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\cqrs\\authors\\commands\\createauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\cqrs\\authors\\commands\\createauthorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\interfaces\\iauthorqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\interfaces\\iauthorqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|d:\\project\\librarymanage\\librarymanage.application\\interfaces\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5469574F-236E-4D82-A403-CEE415AE2514}|LibraryManage.Application\\LibraryManage.Application.csproj|solutionrelative:librarymanage.application\\interfaces\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A2C355-BDF0-4406-8B09-7DAF6F67083A}|LibraryManage.Domain\\LibraryManage.Domain.csproj|d:\\project\\librarymanage\\librarymanage.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A2C355-BDF0-4406-8B09-7DAF6F67083A}|LibraryManage.Domain\\LibraryManage.Domain.csproj|solutionrelative:librarymanage.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Project\\.gitignore",
+              "RelativeDocumentMoniker": "..\\.gitignore",
+              "ToolTip": "D:\\Project\\.gitignore",
+              "RelativeToolTip": "..\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-16T20:23:58.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Domain\\Entities\\Publisher.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Domain\\Entities\\Publisher.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Domain\\Entities\\Publisher.cs",
+              "RelativeToolTip": "LibraryManage.Domain\\Entities\\Publisher.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T07:25:02.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "LibraryManage.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAawOwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T09:40:27.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserCredential.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Domain\\Entities\\UserCredential.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Domain\\Entities\\UserCredential.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Domain\\Entities\\UserCredential.cs",
+              "RelativeToolTip": "LibraryManage.Domain\\Entities\\UserCredential.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvxUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T16:17:10.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Username.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Domain\\ValueObjects\\Username.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Domain\\ValueObjects\\Username.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Domain\\ValueObjects\\Username.cs",
+              "RelativeToolTip": "LibraryManage.Domain\\ValueObjects\\Username.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T16:32:08.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Seed\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Infrastructure\\Persistence\\Seed\\DataSeeder.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Seed\\DataSeeder.cs",
+              "RelativeToolTip": "LibraryManage.Infrastructure\\Persistence\\Seed\\DataSeeder.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwC4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T19:22:56.78Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentHistory.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Domain\\Entities\\PaymentHistory.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Domain\\Entities\\PaymentHistory.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Domain\\Entities\\PaymentHistory.cs",
+              "RelativeToolTip": "LibraryManage.Domain\\Entities\\PaymentHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T10:50:58.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Domain\\Entities\\Loan.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Domain\\Entities\\Loan.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Domain\\Entities\\Loan.cs",
+              "RelativeToolTip": "LibraryManage.Domain\\Entities\\Loan.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T09:43:26.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.API\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManage.API\\Program.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.API\\Program.cs",
+              "RelativeToolTip": "LibraryManage.API\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T14:45:03.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Domain\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Domain\\Entities\\Book.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Domain\\Entities\\Book.cs",
+              "RelativeToolTip": "LibraryManage.Domain\\Entities\\Book.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T09:39:26.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Domain\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Domain\\Entities\\Author.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Domain\\Entities\\Author.cs",
+              "RelativeToolTip": "LibraryManage.Domain\\Entities\\Author.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T11:10:10.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.API\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryManage.API\\appsettings.json",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.API\\appsettings.json",
+              "RelativeToolTip": "LibraryManage.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-15T13:54:54.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PublisherConfiguration.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Configurations\\PublisherConfiguration.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Infrastructure\\Persistence\\Configurations\\PublisherConfiguration.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Configurations\\PublisherConfiguration.cs",
+              "RelativeToolTip": "LibraryManage.Infrastructure\\Persistence\\Configurations\\PublisherConfiguration.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T11:40:35.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoanConfiguration.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Configurations\\LoanConfiguration.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Infrastructure\\Persistence\\Configurations\\LoanConfiguration.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Configurations\\LoanConfiguration.cs",
+              "RelativeToolTip": "LibraryManage.Infrastructure\\Persistence\\Configurations\\LoanConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T10:29:59.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "LibraryManage.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T20:30:41.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoanStatus.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Domain\\Enums\\LoanStatus.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Domain\\Enums\\LoanStatus.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Domain\\Enums\\LoanStatus.cs",
+              "RelativeToolTip": "LibraryManage.Domain\\Enums\\LoanStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T09:33:31.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "LibraryManage.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAQwHEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T11:50:41.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoanController.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.API\\Controllers\\LoanController.cs",
+              "RelativeDocumentMoniker": "LibraryManage.API\\Controllers\\LoanController.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.API\\Controllers\\LoanController.cs",
+              "RelativeToolTip": "LibraryManage.API\\Controllers\\LoanController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAswE8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T15:33:43.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Security\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Infrastructure\\Security\\JwtTokenGenerator.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Security\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "LibraryManage.Infrastructure\\Security\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T16:14:12.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Infrastructure\\Persistence\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "LibraryManage.Infrastructure\\Persistence\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA2wCgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:32:54.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Context\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Infrastructure\\Persistence\\Context\\LibraryDbContext.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Context\\LibraryDbContext.cs",
+              "RelativeToolTip": "LibraryManage.Infrastructure\\Persistence\\Context\\LibraryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T09:35:05.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "LibraryManage.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "LibraryManage.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwDQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T16:02:10.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Security\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Infrastructure\\Security\\JwtSettings.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Security\\JwtSettings.cs",
+              "RelativeToolTip": "LibraryManage.Infrastructure\\Security\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T16:28:52.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IJwtTokenGenerator.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\IJwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\Interfaces\\IJwtTokenGenerator.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\IJwtTokenGenerator.cs",
+              "RelativeToolTip": "LibraryManage.Application\\Interfaces\\IJwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T16:14:56.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "LibraryManage.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T10:17:24.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationAssemblyMarker.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\ApplicationAssemblyMarker.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\ApplicationAssemblyMarker.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\ApplicationAssemblyMarker.cs",
+              "RelativeToolTip": "LibraryManage.Application\\ApplicationAssemblyMarker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T10:19:04.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PublisherController.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.API\\Controllers\\PublisherController.cs",
+              "RelativeDocumentMoniker": "LibraryManage.API\\Controllers\\PublisherController.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.API\\Controllers\\PublisherController.cs",
+              "RelativeToolTip": "LibraryManage.API\\Controllers\\PublisherController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowFQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T15:42:18.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LibraryManage.API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LibraryManage.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T15:54:48.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserCredentialController.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.API\\Controllers\\UserCredentialController.cs",
+              "RelativeDocumentMoniker": "LibraryManage.API\\Controllers\\UserCredentialController.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.API\\Controllers\\UserCredentialController.cs",
+              "RelativeToolTip": "LibraryManage.API\\Controllers\\UserCredentialController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T15:57:14.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.API\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "LibraryManage.API\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.API\\Controllers\\BookController.cs",
+              "RelativeToolTip": "LibraryManage.API\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T14:55:23.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.API\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "LibraryManage.API\\Controllers\\AuthorController.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.API\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "LibraryManage.API\\Controllers\\AuthorController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T14:53:02.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PerformanceMiddleware.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.API\\Middlewares\\PerformanceMiddleware.cs",
+              "RelativeDocumentMoniker": "LibraryManage.API\\Middlewares\\PerformanceMiddleware.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.API\\Middlewares\\PerformanceMiddleware.cs",
+              "RelativeToolTip": "LibraryManage.API\\Middlewares\\PerformanceMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T16:12:46.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.API\\Middlewares\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "LibraryManage.API\\Middlewares\\RequestLoggingMiddleware.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.API\\Middlewares\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "LibraryManage.API\\Middlewares\\RequestLoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T16:11:46.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "LibraryManage.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "LibraryManage.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T16:07:43.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Security\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Infrastructure\\Security\\PasswordHasher.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Security\\PasswordHasher.cs",
+              "RelativeToolTip": "LibraryManage.Infrastructure\\Security\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:39:23.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "LibraryManage.Application\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T14:31:23.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\Interfaces\\IPasswordHasher.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\IPasswordHasher.cs",
+              "RelativeToolTip": "LibraryManage.Application\\Interfaces\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T15:57:54.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PasswordPolicy.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Common\\Security\\PasswordPolicy.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\Common\\Security\\PasswordPolicy.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Common\\Security\\PasswordPolicy.cs",
+              "RelativeToolTip": "LibraryManage.Application\\Common\\Security\\PasswordPolicy.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:58:49.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "LibraryManage.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwEAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T14:23:57.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserCredentialRepository.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Repositories\\UserCredentialRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Infrastructure\\Persistence\\Repositories\\UserCredentialRepository.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Repositories\\UserCredentialRepository.cs",
+              "RelativeToolTip": "LibraryManage.Infrastructure\\Persistence\\Repositories\\UserCredentialRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA4wDEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T14:29:05.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserQueryService.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\QueryServices\\UserQueryService.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Infrastructure\\Persistence\\QueryServices\\UserQueryService.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\QueryServices\\UserQueryService.cs",
+              "RelativeToolTip": "LibraryManage.Infrastructure\\Persistence\\QueryServices\\UserQueryService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAIBQwE0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T08:54:43.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserCredentialConfiguration.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Configurations\\UserCredentialConfiguration.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Infrastructure\\Persistence\\Configurations\\UserCredentialConfiguration.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Configurations\\UserCredentialConfiguration.cs",
+              "RelativeToolTip": "LibraryManage.Infrastructure\\Persistence\\Configurations\\UserCredentialConfiguration.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwDoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T13:54:16.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "LibraryManage.Application\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T14:25:22.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IUserQueryService.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\IUserQueryService.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\Interfaces\\IUserQueryService.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\IUserQueryService.cs",
+              "RelativeToolTip": "LibraryManage.Application\\Interfaces\\IUserQueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T13:47:30.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IUserCredentialRepository.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\IUserCredentialRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\Interfaces\\IUserCredentialRepository.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\IUserCredentialRepository.cs",
+              "RelativeToolTip": "LibraryManage.Application\\Interfaces\\IUserCredentialRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T14:28:15.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UnlockUserCommandHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\UserCredential\\Handlers\\UnlockUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\UserCredential\\Handlers\\UnlockUserCommandHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\UserCredential\\Handlers\\UnlockUserCommandHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\UserCredential\\Handlers\\UnlockUserCommandHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T16:12:18.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ChangePasswordCommandHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\UserCredential\\Handlers\\ChangePasswordCommandHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\UserCredential\\Handlers\\ChangePasswordCommandHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\UserCredential\\Handlers\\ChangePasswordCommandHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\UserCredential\\Handlers\\ChangePasswordCommandHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwCMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T16:10:28.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UnlockUserCommand.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\UserCredential\\Commands\\UnlockUserCommand.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\UserCredential\\Commands\\UnlockUserCommand.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\UserCredential\\Commands\\UnlockUserCommand.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\UserCredential\\Commands\\UnlockUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T16:11:48.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ChangePasswordCommand.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\UserCredential\\Commands\\ChangePasswordCommand.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\UserCredential\\Commands\\ChangePasswordCommand.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\UserCredential\\Commands\\ChangePasswordCommand.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\UserCredential\\Commands\\ChangePasswordCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T16:09:40.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "GetUserByUsernameQuery.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Queries\\GetUserByUsernameQuery.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Users\\Queries\\GetUserByUsernameQuery.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Queries\\GetUserByUsernameQuery.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Users\\Queries\\GetUserByUsernameQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T13:57:13.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GetUserByIdQuery.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Queries\\GetUserByIdQuery.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Users\\Queries\\GetUserByIdQuery.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Queries\\GetUserByIdQuery.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Users\\Queries\\GetUserByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T13:56:00.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GetAllUsersQuery.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Queries\\GetAllUsersQuery.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Users\\Queries\\GetAllUsersQuery.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Queries\\GetAllUsersQuery.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Users\\Queries\\GetAllUsersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T13:55:02.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "GetActiveUsersQuery.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Queries\\GetActiveUsersQuery.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Users\\Queries\\GetActiveUsersQuery.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Queries\\GetActiveUsersQuery.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Users\\Queries\\GetActiveUsersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T14:16:20.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UpdateUserCommandHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Handlers\\UpdateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Users\\Handlers\\UpdateUserCommandHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Handlers\\UpdateUserCommandHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Users\\Handlers\\UpdateUserCommandHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIBQwC0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T15:52:35.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RegisterUserCommandHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Handlers\\RegisterUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Users\\Handlers\\RegisterUserCommandHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Handlers\\RegisterUserCommandHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Users\\Handlers\\RegisterUserCommandHandler.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T13:58:06.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "LoginUserCommandHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Handlers\\LoginUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Users\\Handlers\\LoginUserCommandHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Handlers\\LoginUserCommandHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Users\\Handlers\\LoginUserCommandHandler.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwD0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T14:09:27.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "GetUserByUsernameQueryHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Handlers\\GetUserByUsernameQueryHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Users\\Handlers\\GetUserByUsernameQueryHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Handlers\\GetUserByUsernameQueryHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Users\\Handlers\\GetUserByUsernameQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T14:14:37.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "GetUserByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Handlers\\GetUserByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Users\\Handlers\\GetUserByIdQueryHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Handlers\\GetUserByIdQueryHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Users\\Handlers\\GetUserByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T14:10:36.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "GetAllUsersQueryHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Handlers\\GetAllUsersQueryHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Users\\Handlers\\GetAllUsersQueryHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Handlers\\GetAllUsersQueryHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Users\\Handlers\\GetAllUsersQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T14:14:04.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "GetActiveUsersQueryHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Handlers\\GetActiveUsersQueryHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Users\\Handlers\\GetActiveUsersQueryHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Handlers\\GetActiveUsersQueryHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Users\\Handlers\\GetActiveUsersQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T14:17:03.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DeleteUserCommandHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Handlers\\DeleteUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Users\\Handlers\\DeleteUserCommandHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Handlers\\DeleteUserCommandHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Users\\Handlers\\DeleteUserCommandHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T15:53:51.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Users\\DTOs\\UserDTO.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Users\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T13:50:22.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "UpdateUserCommand.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Commands\\UpdateUserCommand.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Users\\Commands\\UpdateUserCommand.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Commands\\UpdateUserCommand.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Users\\Commands\\UpdateUserCommand.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T15:51:35.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "RegisterUserCommand.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Commands\\RegisterUserCommand.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Users\\Commands\\RegisterUserCommand.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Commands\\RegisterUserCommand.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Users\\Commands\\RegisterUserCommand.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T13:51:48.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "LoginUserCommand.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Commands\\LoginUserCommand.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Users\\Commands\\LoginUserCommand.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Commands\\LoginUserCommand.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Users\\Commands\\LoginUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T13:52:51.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "DeleteUserCommand.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Commands\\DeleteUserCommand.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Users\\Commands\\DeleteUserCommand.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Users\\Commands\\DeleteUserCommand.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Users\\Commands\\DeleteUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T15:53:12.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "PublisherRepository.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Repositories\\PublisherRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Infrastructure\\Persistence\\Repositories\\PublisherRepository.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Repositories\\PublisherRepository.cs",
+              "RelativeToolTip": "LibraryManage.Infrastructure\\Persistence\\Repositories\\PublisherRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA4wCsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:47:34.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "PublisherQueryService.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\QueryServices\\PublisherQueryService.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Infrastructure\\Persistence\\QueryServices\\PublisherQueryService.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\QueryServices\\PublisherQueryService.cs",
+              "RelativeToolTip": "LibraryManage.Infrastructure\\Persistence\\QueryServices\\PublisherQueryService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAABZwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T08:42:53.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IPublisherRepository.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\IPublisherRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\Interfaces\\IPublisherRepository.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\IPublisherRepository.cs",
+              "RelativeToolTip": "LibraryManage.Application\\Interfaces\\IPublisherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T14:21:43.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "IPublisherQueryService.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\IPublisherQueryService.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\Interfaces\\IPublisherQueryService.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\IPublisherQueryService.cs",
+              "RelativeToolTip": "LibraryManage.Application\\Interfaces\\IPublisherQueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T19:44:54.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "GetPublisherByIdQuery.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Publishers\\Queries\\GetPublisherByIdQuery.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Publishers\\Queries\\GetPublisherByIdQuery.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Publishers\\Queries\\GetPublisherByIdQuery.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Publishers\\Queries\\GetPublisherByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T12:20:21.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "GetAllPublishersQuery.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Publishers\\Queries\\GetAllPublishersQuery.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Publishers\\Queries\\GetAllPublishersQuery.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Publishers\\Queries\\GetAllPublishersQuery.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Publishers\\Queries\\GetAllPublishersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T19:50:20.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "GetActivePublishersQuery.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Publishers\\Queries\\GetActivePublishersQuery.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Publishers\\Queries\\GetActivePublishersQuery.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Publishers\\Queries\\GetActivePublishersQuery.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Publishers\\Queries\\GetActivePublishersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T12:21:10.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "UpdatePublisherHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Publishers\\Handlers\\UpdatePublisherHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Publishers\\Handlers\\UpdatePublisherHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Publishers\\Handlers\\UpdatePublisherHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Publishers\\Handlers\\UpdatePublisherHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwCEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T12:23:01.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "GetPublisherByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Publishers\\Handlers\\GetPublisherByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Publishers\\Handlers\\GetPublisherByIdQueryHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Publishers\\Handlers\\GetPublisherByIdQueryHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Publishers\\Handlers\\GetPublisherByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T12:26:35.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "GetAllPublishersQueryHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Publishers\\Handlers\\GetAllPublishersQueryHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Publishers\\Handlers\\GetAllPublishersQueryHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Publishers\\Handlers\\GetAllPublishersQueryHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Publishers\\Handlers\\GetAllPublishersQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T12:25:36.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "GetActivePublishersQueryHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Publishers\\Handlers\\GetActivePublishersQueryHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Publishers\\Handlers\\GetActivePublishersQueryHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Publishers\\Handlers\\GetActivePublishersQueryHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Publishers\\Handlers\\GetActivePublishersQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T12:27:29.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "DeletePublisherHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Publishers\\Handlers\\DeletePublisherHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Publishers\\Handlers\\DeletePublisherHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Publishers\\Handlers\\DeletePublisherHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Publishers\\Handlers\\DeletePublisherHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA8wB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T12:24:16.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "CreatePublisherHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Publishers\\Handlers\\CreatePublisherHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Publishers\\Handlers\\CreatePublisherHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Publishers\\Handlers\\CreatePublisherHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Publishers\\Handlers\\CreatePublisherHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T12:21:49.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "PublisherDTO.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Publishers\\DTOs\\PublisherDTO.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Publishers\\DTOs\\PublisherDTO.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Publishers\\DTOs\\PublisherDTO.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Publishers\\DTOs\\PublisherDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T19:49:14.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "UpdatePublisherCommand.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Publishers\\Commands\\UpdatePublisherCommand.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Publishers\\Commands\\UpdatePublisherCommand.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Publishers\\Commands\\UpdatePublisherCommand.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Publishers\\Commands\\UpdatePublisherCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T19:47:54.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "DeletePublisherCommand.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Publishers\\Commands\\DeletePublisherCommand.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Publishers\\Commands\\DeletePublisherCommand.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Publishers\\Commands\\DeletePublisherCommand.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Publishers\\Commands\\DeletePublisherCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T19:48:32.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "CreatePublisherCommand.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Publishers\\Commands\\CreatePublisherCommand.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Publishers\\Commands\\CreatePublisherCommand.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Publishers\\Commands\\CreatePublisherCommand.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Publishers\\Commands\\CreatePublisherCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T19:47:09.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "LoanRepository.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Repositories\\LoanRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Infrastructure\\Persistence\\Repositories\\LoanRepository.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Repositories\\LoanRepository.cs",
+              "RelativeToolTip": "LibraryManage.Infrastructure\\Persistence\\Repositories\\LoanRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA4wDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T09:28:58.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "LoanQueryService.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\QueryServices\\LoanQueryService.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Infrastructure\\Persistence\\QueryServices\\LoanQueryService.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\QueryServices\\LoanQueryService.cs",
+              "RelativeToolTip": "LibraryManage.Infrastructure\\Persistence\\QueryServices\\LoanQueryService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAIBJwE4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T08:29:33.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ILoanRepository.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\ILoanRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\Interfaces\\ILoanRepository.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\ILoanRepository.cs",
+              "RelativeToolTip": "LibraryManage.Application\\Interfaces\\ILoanRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwA0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T14:09:45.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ILoanQueryService.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\ILoanQueryService.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\Interfaces\\ILoanQueryService.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\ILoanQueryService.cs",
+              "RelativeToolTip": "LibraryManage.Application\\Interfaces\\ILoanQueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T19:01:45.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "GetUserLoansQuery.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Queries\\GetUserLoansQuery.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Loans\\Queries\\GetUserLoansQuery.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Queries\\GetUserLoansQuery.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Loans\\Queries\\GetUserLoansQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T18:38:49.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "GetOverdueLoansQuery.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Queries\\GetOverdueLoansQuery.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Loans\\Queries\\GetOverdueLoansQuery.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Queries\\GetOverdueLoansQuery.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Loans\\Queries\\GetOverdueLoansQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T18:41:16.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "GetLoanByIdQuery.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Queries\\GetLoanByIdQuery.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Loans\\Queries\\GetLoanByIdQuery.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Queries\\GetLoanByIdQuery.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Loans\\Queries\\GetLoanByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T18:37:59.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "GetActiveLoansQuery.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Queries\\GetActiveLoansQuery.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Loans\\Queries\\GetActiveLoansQuery.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Queries\\GetActiveLoansQuery.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Loans\\Queries\\GetActiveLoansQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T18:39:58.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "ReturnLoanCommandHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Handlers\\ReturnLoanCommandHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Loans\\Handlers\\ReturnLoanCommandHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Handlers\\ReturnLoanCommandHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Loans\\Handlers\\ReturnLoanCommandHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBQwCgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T18:43:53.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "RecordLoanPaymentCommandHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Handlers\\RecordLoanPaymentCommandHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Loans\\Handlers\\RecordLoanPaymentCommandHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Handlers\\RecordLoanPaymentCommandHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Loans\\Handlers\\RecordLoanPaymentCommandHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T18:44:50.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "GetUserLoansQueryHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Handlers\\GetUserLoansQueryHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Loans\\Handlers\\GetUserLoansQueryHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Handlers\\GetUserLoansQueryHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Loans\\Handlers\\GetUserLoansQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T19:40:35.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "GetOverdueLoansQueryHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Handlers\\GetOverdueLoansQueryHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Loans\\Handlers\\GetOverdueLoansQueryHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Handlers\\GetOverdueLoansQueryHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Loans\\Handlers\\GetOverdueLoansQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T19:36:53.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "GetLoanByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Handlers\\GetLoanByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Loans\\Handlers\\GetLoanByIdQueryHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Handlers\\GetLoanByIdQueryHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Loans\\Handlers\\GetLoanByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T19:33:11.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "GetActiveLoansQueryHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Handlers\\GetActiveLoansQueryHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Loans\\Handlers\\GetActiveLoansQueryHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Handlers\\GetActiveLoansQueryHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Loans\\Handlers\\GetActiveLoansQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T19:28:53.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "CreateLoanCommandHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Handlers\\CreateLoanCommandHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Loans\\Handlers\\CreateLoanCommandHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Handlers\\CreateLoanCommandHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Loans\\Handlers\\CreateLoanCommandHandler.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAxwCcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T18:42:47.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "PaymentHistoryDTO.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\DTOs\\PaymentHistoryDTO.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Loans\\DTOs\\PaymentHistoryDTO.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\DTOs\\PaymentHistoryDTO.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Loans\\DTOs\\PaymentHistoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T18:33:57.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "LoanDTO.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\DTOs\\LoanDTO.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Loans\\DTOs\\LoanDTO.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\DTOs\\LoanDTO.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Loans\\DTOs\\LoanDTO.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T18:34:37.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "ReturnLoanCommand.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Commands\\ReturnLoanCommand.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Loans\\Commands\\ReturnLoanCommand.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Commands\\ReturnLoanCommand.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Loans\\Commands\\ReturnLoanCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T18:36:23.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "RecordLoanPaymentCommand.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Commands\\RecordLoanPaymentCommand.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Loans\\Commands\\RecordLoanPaymentCommand.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Commands\\RecordLoanPaymentCommand.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Loans\\Commands\\RecordLoanPaymentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T18:37:13.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "CreateLoanCommand.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Commands\\CreateLoanCommand.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Loans\\Commands\\CreateLoanCommand.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Loans\\Commands\\CreateLoanCommand.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Loans\\Commands\\CreateLoanCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T18:35:29.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Infrastructure\\Persistence\\Repositories\\BookRepository.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "LibraryManage.Infrastructure\\Persistence\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwCwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T09:17:41.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "BookQueryService.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\QueryServices\\BookQueryService.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Infrastructure\\Persistence\\QueryServices\\BookQueryService.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\QueryServices\\BookQueryService.cs",
+              "RelativeToolTip": "LibraryManage.Infrastructure\\Persistence\\QueryServices\\BookQueryService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAIBZwEwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T08:14:52.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "BookConfiguration.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Configurations\\BookConfiguration.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Infrastructure\\Persistence\\Configurations\\BookConfiguration.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Configurations\\BookConfiguration.cs",
+              "RelativeToolTip": "LibraryManage.Infrastructure\\Persistence\\Configurations\\BookConfiguration.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T10:12:04.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "LibraryManage.Application\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T14:07:04.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "IBookQueryService.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\IBookQueryService.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\Interfaces\\IBookQueryService.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\IBookQueryService.cs",
+              "RelativeToolTip": "LibraryManage.Application\\Interfaces\\IBookQueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T14:57:43.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "GetBookByISBNQuery.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Queries\\GetBookByISBNQuery.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Books\\Queries\\GetBookByISBNQuery.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Queries\\GetBookByISBNQuery.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Books\\Queries\\GetBookByISBNQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:55:32.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "GetBookByIdQuery.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Queries\\GetBookByIdQuery.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Books\\Queries\\GetBookByIdQuery.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Queries\\GetBookByIdQuery.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Books\\Queries\\GetBookByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:53:51.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "GetAllBooksQuery.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Queries\\GetAllBooksQuery.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Books\\Queries\\GetAllBooksQuery.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Queries\\GetAllBooksQuery.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Books\\Queries\\GetAllBooksQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:56:48.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "UpdateBookCommandHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Handlers\\UpdateBookCommandHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Books\\Handlers\\UpdateBookCommandHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Handlers\\UpdateBookCommandHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Books\\Handlers\\UpdateBookCommandHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAEBdwCkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:59:22.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "IncreaseBookCopiesCommandHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Handlers\\IncreaseBookCopiesCommandHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Books\\Handlers\\IncreaseBookCopiesCommandHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Handlers\\IncreaseBookCopiesCommandHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Books\\Handlers\\IncreaseBookCopiesCommandHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T18:22:17.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "GetBookByISBNQueryHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Handlers\\GetBookByISBNQueryHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Books\\Handlers\\GetBookByISBNQueryHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Handlers\\GetBookByISBNQueryHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Books\\Handlers\\GetBookByISBNQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T18:41:02.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "GetBookByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Handlers\\GetBookByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Books\\Handlers\\GetBookByIdQueryHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Handlers\\GetBookByIdQueryHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Books\\Handlers\\GetBookByIdQueryHandler.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T18:26:08.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "GetAllBooksQueryHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Handlers\\GetAllBooksQueryHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Books\\Handlers\\GetAllBooksQueryHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Handlers\\GetAllBooksQueryHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Books\\Handlers\\GetAllBooksQueryHandler.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T18:27:27.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "DeleteBookCommandHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Handlers\\DeleteBookCommandHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Books\\Handlers\\DeleteBookCommandHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Handlers\\DeleteBookCommandHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Books\\Handlers\\DeleteBookCommandHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T18:15:50.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "DecreaseBookCopiesCommandHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Handlers\\DecreaseBookCopiesCommandHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Books\\Handlers\\DecreaseBookCopiesCommandHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Handlers\\DecreaseBookCopiesCommandHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Books\\Handlers\\DecreaseBookCopiesCommandHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T18:24:58.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "CreateBookCommandHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Handlers\\CreateBookCommandHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Books\\Handlers\\CreateBookCommandHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Handlers\\CreateBookCommandHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Books\\Handlers\\CreateBookCommandHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:57:49.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\DTOs\\BookDTO.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Books\\DTOs\\BookDTO.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\DTOs\\BookDTO.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Books\\DTOs\\BookDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:47:54.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "UpdateBookCommand.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Commands\\UpdateBookCommand.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Books\\Commands\\UpdateBookCommand.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Commands\\UpdateBookCommand.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Books\\Commands\\UpdateBookCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:50:23.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "IncreaseBookCopiesCommand.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Commands\\IncreaseBookCopiesCommand.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Books\\Commands\\IncreaseBookCopiesCommand.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Commands\\IncreaseBookCopiesCommand.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Books\\Commands\\IncreaseBookCopiesCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:52:20.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "DeleteBookCommand.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Commands\\DeleteBookCommand.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Books\\Commands\\DeleteBookCommand.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Commands\\DeleteBookCommand.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Books\\Commands\\DeleteBookCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:51:32.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "DecreaseBookCopiesCommand.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Commands\\DecreaseBookCopiesCommand.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Books\\Commands\\DecreaseBookCopiesCommand.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Commands\\DecreaseBookCopiesCommand.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Books\\Commands\\DecreaseBookCopiesCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:53:04.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "CreateBookCommand.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Commands\\CreateBookCommand.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Books\\Commands\\CreateBookCommand.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Books\\Commands\\CreateBookCommand.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Books\\Commands\\CreateBookCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:49:26.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Repositories\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Infrastructure\\Persistence\\Repositories\\AuthorRepository.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Repositories\\AuthorRepository.cs",
+              "RelativeToolTip": "LibraryManage.Infrastructure\\Persistence\\Repositories\\AuthorRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwCwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T09:12:34.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "AuthorQueryService.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\QueryServices\\AuthorQueryService.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Infrastructure\\Persistence\\QueryServices\\AuthorQueryService.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\QueryServices\\AuthorQueryService.cs",
+              "RelativeToolTip": "LibraryManage.Infrastructure\\Persistence\\QueryServices\\AuthorQueryService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAEBdwC4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T08:02:10.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "AuthorConfiguration.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Configurations\\AuthorConfiguration.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Infrastructure\\Persistence\\Configurations\\AuthorConfiguration.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Infrastructure\\Persistence\\Configurations\\AuthorConfiguration.cs",
+              "RelativeToolTip": "LibraryManage.Infrastructure\\Persistence\\Configurations\\AuthorConfiguration.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T09:51:02.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "GetAuthorByIdQuery.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Authors\\Queries\\GetAuthorByIdQuery.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Authors\\Queries\\GetAuthorByIdQuery.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Authors\\Queries\\GetAuthorByIdQuery.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Authors\\Queries\\GetAuthorByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:11:23.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "GetAllAuthorsQuery.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Authors\\Queries\\GetAllAuthorsQuery.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Authors\\Queries\\GetAllAuthorsQuery.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Authors\\Queries\\GetAllAuthorsQuery.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Authors\\Queries\\GetAllAuthorsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:14:42.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "UpdateAuthorCommandHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Authors\\Handlers\\UpdateAuthorCommandHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Authors\\Handlers\\UpdateAuthorCommandHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Authors\\Handlers\\UpdateAuthorCommandHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Authors\\Handlers\\UpdateAuthorCommandHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:29:47.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "GetAuthorByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Authors\\Handlers\\GetAuthorByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Authors\\Handlers\\GetAuthorByIdQueryHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Authors\\Handlers\\GetAuthorByIdQueryHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Authors\\Handlers\\GetAuthorByIdQueryHandler.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:35:43.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "GetAllAuthorsQueryHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Authors\\Handlers\\GetAllAuthorsQueryHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Authors\\Handlers\\GetAllAuthorsQueryHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Authors\\Handlers\\GetAllAuthorsQueryHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Authors\\Handlers\\GetAllAuthorsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T14:28:07.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "DeleteAuthorCommandHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Authors\\Handlers\\DeleteAuthorCommandHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Authors\\Handlers\\DeleteAuthorCommandHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Authors\\Handlers\\DeleteAuthorCommandHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Authors\\Handlers\\DeleteAuthorCommandHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:33:32.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "CreateAuthorCommandHandler.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Authors\\Handlers\\CreateAuthorCommandHandler.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Authors\\Handlers\\CreateAuthorCommandHandler.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Authors\\Handlers\\CreateAuthorCommandHandler.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Authors\\Handlers\\CreateAuthorCommandHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:24:49.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "AuthorDTO.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Authors\\DTOs\\AuthorDTO.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Authors\\DTOs\\AuthorDTO.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Authors\\DTOs\\AuthorDTO.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Authors\\DTOs\\AuthorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:13:21.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 136,
+              "Title": "UpdateAuthorCommand.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Authors\\Commands\\UpdateAuthorCommand.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Authors\\Commands\\UpdateAuthorCommand.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Authors\\Commands\\UpdateAuthorCommand.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Authors\\Commands\\UpdateAuthorCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:09:01.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 137,
+              "Title": "DeleteAuthorCommand.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Authors\\Commands\\DeleteAuthorCommand.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Authors\\Commands\\DeleteAuthorCommand.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Authors\\Commands\\DeleteAuthorCommand.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Authors\\Commands\\DeleteAuthorCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:10:10.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 138,
+              "Title": "CreateAuthorCommand.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Authors\\Commands\\CreateAuthorCommand.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\CQRS\\Authors\\Commands\\CreateAuthorCommand.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\CQRS\\Authors\\Commands\\CreateAuthorCommand.cs",
+              "RelativeToolTip": "LibraryManage.Application\\CQRS\\Authors\\Commands\\CreateAuthorCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T15:26:17.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 139,
+              "Title": "IAuthorQueryService.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\IAuthorQueryService.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\Interfaces\\IAuthorQueryService.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\IAuthorQueryService.cs",
+              "RelativeToolTip": "LibraryManage.Application\\Interfaces\\IAuthorQueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T14:12:40.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 140,
+              "Title": "IAuthorRepository.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\IAuthorRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Application\\Interfaces\\IAuthorRepository.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Application\\Interfaces\\IAuthorRepository.cs",
+              "RelativeToolTip": "LibraryManage.Application\\Interfaces\\IAuthorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T14:03:08.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 141,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "D:\\Project\\LibraryManage\\LibraryManage.Domain\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "LibraryManage.Domain\\Exceptions\\DomainException.cs",
+              "ToolTip": "D:\\Project\\LibraryManage\\LibraryManage.Domain\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "LibraryManage.Domain\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:30:57.037Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

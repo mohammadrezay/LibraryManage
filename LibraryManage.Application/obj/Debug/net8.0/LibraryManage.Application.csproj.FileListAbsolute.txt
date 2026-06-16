@@ -1,0 +1,15 @@
+D:\Project\LibraryManage\LibraryManage.Application\bin\Debug\net8.0\LibraryManage.Application.deps.json
+D:\Project\LibraryManage\LibraryManage.Application\bin\Debug\net8.0\LibraryManage.Application.dll
+D:\Project\LibraryManage\LibraryManage.Application\bin\Debug\net8.0\LibraryManage.Application.pdb
+D:\Project\LibraryManage\LibraryManage.Application\bin\Debug\net8.0\LibraryManage.Domain.dll
+D:\Project\LibraryManage\LibraryManage.Application\bin\Debug\net8.0\LibraryManage.Domain.pdb
+D:\Project\LibraryManage\LibraryManage.Application\obj\Debug\net8.0\LibraryManage.Application.csproj.AssemblyReference.cache
+D:\Project\LibraryManage\LibraryManage.Application\obj\Debug\net8.0\LibraryManage.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\LibraryManage\LibraryManage.Application\obj\Debug\net8.0\LibraryManage.Application.AssemblyInfoInputs.cache
+D:\Project\LibraryManage\LibraryManage.Application\obj\Debug\net8.0\LibraryManage.Application.AssemblyInfo.cs
+D:\Project\LibraryManage\LibraryManage.Application\obj\Debug\net8.0\LibraryManage.Application.csproj.CoreCompileInputs.cache
+D:\Project\LibraryManage\LibraryManage.Application\obj\Debug\net8.0\LibraryM.B3F6F5D2.Up2Date
+D:\Project\LibraryManage\LibraryManage.Application\obj\Debug\net8.0\LibraryManage.Application.dll
+D:\Project\LibraryManage\LibraryManage.Application\obj\Debug\net8.0\refint\LibraryManage.Application.dll
+D:\Project\LibraryManage\LibraryManage.Application\obj\Debug\net8.0\LibraryManage.Application.pdb
+D:\Project\LibraryManage\LibraryManage.Application\obj\Debug\net8.0\ref\LibraryManage.Application.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cDfNJyqr/zc=",
+  "success": true,
+  "projectFilePath": "D:\\Project\\LibraryManage\\LibraryManage.Application\\LibraryManage.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ordibehesht\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\Ordibehesht\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.1.0\\mediatr.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
+    "C:\\Users\\Ordibehesht\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
